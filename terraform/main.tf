@@ -1,8 +1,8 @@
 # Define AWS provider
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIA2RE5C3UYDUZ5OU5C"
-  secret_key = "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"
+  access_key = "xxx"
+  secret_key = "xxx"
 }
 
 # Create AWS Lambda function
